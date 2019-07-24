@@ -1,0 +1,15 @@
+img{
+    width:402px;
+    height:290px;
+    transition-property:width height;
+    transition-delay: 1s;
+    transition-timing-function: ease-in
+    
+}
+img:hover{
+    transform:scale(2)
+    
+}
+.load{
+    transform:rotate(360)
+}
